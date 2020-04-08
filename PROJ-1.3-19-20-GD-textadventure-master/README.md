@@ -2,7 +2,7 @@
 gamedeveloper :[jouw naam]
 
 ### Korte omschrijving van de game
-not yet done
+...
 
 ---
 #### Producten Werkproces

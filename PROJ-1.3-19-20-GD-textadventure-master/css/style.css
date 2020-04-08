@@ -1,11 +1,12 @@
 body{
-  background-color: white;
+  background-color: grey;
 }
 
 .container{
+  position: relative;
   width: 600px;
   margin: auto;
-  background-color: aliceblue;
+  background-color: darkgrey;
   padding: 20px;
   border: blue 3px solid;
   border-radius: 10px;
@@ -16,4 +17,10 @@ body{
   color: red;
   font-size: 30px;
   font-weight: bold;
+}
+
+.treasures{
+  position:absolute;
+  left:500px;
+  top:150px;
 }
