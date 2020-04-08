@@ -1,5 +1,5 @@
 ## MaQuest
-gamedeveloper :[jouw naam]
+gamedeveloper :[Ties Postma]
 
 ### Korte omschrijving van de game
 YES.
