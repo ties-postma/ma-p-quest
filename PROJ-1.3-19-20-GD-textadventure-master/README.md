@@ -2,7 +2,7 @@
 gamedeveloper :[jouw naam]
 
 ### Korte omschrijving van de game
-...
+YES.
 
 ---
 #### Producten Werkproces
@@ -14,6 +14,6 @@ gamedeveloper :[jouw naam]
 |<img width=500/>|<img width=300/>|
 
 
-   [LiveDemo]: <http://sjo.hosts.ma-cloud.nl/2018_2019/PROJ-1.3-19-20-GD-textadventure/>
+   [LiveDemo]: http://28114.hosts2.ma-cloud.nl/bewijzenmap/periode1.3/ma[p]quest/
    [Design]: <docs/design.png>
    [Map]:<docs/map.png>
