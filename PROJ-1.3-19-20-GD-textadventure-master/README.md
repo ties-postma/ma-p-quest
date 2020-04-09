@@ -16,4 +16,4 @@ YES.
 
    [LiveDemo]: http://28114.hosts2.ma-cloud.nl/bewijzenmap/periode1.3/ma[p]quest/
    [Design]: <docs/design.png>
-   [Map]:<docs/map.png>
+   [Map]:<map.png>
